@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:minHeight="?android:attr/actionBarSize" >
+
+   <!--  <TextView
+        android:id="@+id/lblListItem"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:paddingTop="5dp"
+        android:textColor="@android:color/black"
+        android:textSize="17dip" /> -->
+
+    <CheckedTextView
+        android:id="@+id/lblListItem"
+        style="@style/PopupSelectList"
+        android:checkMark="@drawable/radio"
+        android:ellipsize="marquee"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/lib_view_margin_top"
+        android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:paddingTop="@dimen/lib_view_margin_top"
+        android:checked="false"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium"  />
+
+</RelativeLayout>

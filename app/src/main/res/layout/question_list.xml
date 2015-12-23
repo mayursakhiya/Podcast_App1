@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="12" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:scaleType="fitXY"
+        android:src="@drawable/new_question_img" />
+
+   
+
+    <ExpandableListView
+        android:id="@+id/question_listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:groupIndicator="@android:color/transparent"
+        android:childIndicator="@android:color/transparent"
+        android:layout_weight="9" />
+
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal"
+        android:weightSum="2.0" >
+
+        <Button
+            android:id="@+id/skip_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:text="SKIP"
+            android:background="@android:color/transparent"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+
+        <LinearLayout 
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/lib_view_margin_bottom"
+            android:layout_marginBottom="@dimen/lib_view_margin_bottom"
+            android:background="@android:color/black"
+            />
+        <Button
+            android:id="@+id/ok_btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:text="OK"
+            android:textColor="@android:color/black"
+            android:background="@android:color/transparent"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

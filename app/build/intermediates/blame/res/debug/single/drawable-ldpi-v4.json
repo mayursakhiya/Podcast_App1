@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/login_bg.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable-ldpi/login_bg.png"
+    }
+]

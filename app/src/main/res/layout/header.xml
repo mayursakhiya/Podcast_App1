@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <RelativeLayout 
+        android:id="@+id/rel"
+        android:layout_width="fill_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/whooshkaa">
+
+       
+
+         <ImageView
+             android:layout_width="@dimen/whooshkaa_logo_width"
+             android:layout_height="@dimen/whooshkaa_logo_height"
+             android:id="@+id/whooshkaaLogo"
+             android:layout_centerHorizontal="true"
+             android:layout_centerVertical="true"
+             android:src="@drawable/whooshkaalogo"/>
+        <ImageView
+            android:id="@+id/menuImg"
+            android:layout_width="@dimen/abc_action_button_min_width_material"
+            android:layout_height="@dimen/abc_action_button_min_width_material"
+            android:layout_margin="@dimen/lib_view_margin_left"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/menu" />
+        
+        <ImageView
+            android:id="@+id/searchImg"
+            android:layout_width="@dimen/abc_action_button_min_width_material"
+            android:layout_height="@dimen/abc_action_button_min_width_material"
+            android:layout_margin="@dimen/lib_view_margin_left"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/search" />
+        
+    </RelativeLayout>
+
+</LinearLayout>

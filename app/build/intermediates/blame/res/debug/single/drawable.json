@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_repeat.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_repeat.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/download_manager.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/download_manager.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/share.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/indicator_arrow.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/indicator_arrow.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/ic_music_node_custom.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/ic_music_node_custom.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/tb_shows.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/tb_shows.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/tb_episodes.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/tb_episodes.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_previous_small.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_previous_small.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.3.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/heart_red.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/heart_red.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/check_blue123.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/check_blue123.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/seek_progress.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/seek_progress.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/download123white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/download123white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/transparent.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/transparent.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/logo_hd.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/logo_hd.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/default_ptr_rotate.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_pause.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_pause.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/logout.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/splash.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/splash.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/playlist123white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/playlist123white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/active_round.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/active_round.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/sti01.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/sti01.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/default_ptr_flip.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/default_ptr_flip.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/whooshkaalogo.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/whooshkaalogo.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_item_song.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_item_song.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/uncheck_white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/uncheck_white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/side_right_menu.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/side_right_menu.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/like.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/like.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/fbloginbuttonicon.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/fbloginbuttonicon.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/img_not_found.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/img_not_found.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/radio_btn2.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/radio_btn2.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/feedback_icon.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/feedback_icon.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/radio.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/radio.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_shuffle.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_shuffle.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/ic_music_node.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/ic_music_node.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_app.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_app.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/profile.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/profile.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/share123white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/share123white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/da.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/da.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/headphone1.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/headphone1.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/sti03.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/sti03.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/inactive_round.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/inactive_round.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/account_setting.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/account_setting.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/headphone.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/headphone.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/splash_logo.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/splash_logo.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/search1.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/search1.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/dsb.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/dsb.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_btn_pause_small.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_btn_pause_small.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/pause.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/toggle_selector.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/toggle_selector.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_btn_play_small.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_btn_play_small.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/signup_bg.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/signup_bg.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg11.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg11.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/favourite.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/favourite.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/clock.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/clock.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_next_small.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_next_small.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_btn_previous_small.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_btn_previous_small.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/default_image.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/default_image.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/new_question_img.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/new_question_img.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_splash.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_splash.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/fb_login_btn.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/fb_login_btn.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/menu.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/menu.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/heart.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/heart.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/whotofollow.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/whotofollow.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/carlayout_new.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/carlayout_new.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_play_small.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_play_small.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/black_texture_wall.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/black_texture_wall.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/googleloginbuttonicon.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/googleloginbuttonicon.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/next_vector.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/next_vector.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_white_transparent.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_white_transparent.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/comment.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/comment.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/sti02.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/sti02.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/search.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/ic_music_node_small.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/ic_music_node_small.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_color_selector.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_color_selector.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_play.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_play.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/check_blue.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/check_blue.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/inloginbuttonicon.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/inloginbuttonicon.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_player_footer_.jpg",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_player_footer_.jpg"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/gp_login_btn.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/gp_login_btn.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/radio_selector.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/radio_selector.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_current_song.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_current_song.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/profile_picture_border.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/profile_picture_border.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/getfeedback.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/getfeedback.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/phoneloginbutton.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/phoneloginbutton.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_btn_next_small.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_btn_next_small.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/ic_no_image.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/ic_no_image.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/btn_pause_small.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/btn_pause_small.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_player_footer.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_player_footer.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/bg_music_player.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/bg_music_player.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/follow123white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/follow123white.png"
+    },
+    {
+        "merged": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/build/intermediates/res/merged/debug/drawable/comment123white.png",
+        "source": "/home/uadmin/AndroidStudioProjects/Podcast_App1/app/src/main/res/drawable/comment123white.png"
+    }
+]

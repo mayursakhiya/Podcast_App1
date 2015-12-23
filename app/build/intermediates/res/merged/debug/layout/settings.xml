@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="10" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@android:color/black" >
+
+            <include
+                android:id="@+id/layout_header"
+                android:layout_width="fill_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                layout="@layout/header_middle_text" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:orientation="vertical" >
+            
+            <EditText
+                android:id="@+id/oldpswdEt"
+                android:layout_marginTop="20dp"
+                android:layout_width="@dimen/agis_logo_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center"
+                android:hint="Enter Old Password"
+                android:inputType="textPassword"/>
+            
+            <EditText
+                android:id="@+id/newpswdEt"
+                android:layout_marginTop="20dp"
+                android:layout_width="@dimen/agis_logo_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center"
+                android:hint="Enter New Password"
+                android:inputType="textPassword"/>
+            
+            <EditText
+                android:id="@+id/cnfrmpswdEt"
+                android:layout_marginTop="20dp"
+                android:layout_width="@dimen/agis_logo_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center"
+                android:hint="Confirm New Password"
+                android:inputType="textPassword"/>
+            
+            <Button
+                android:id="@+id/doneBtn"
+                android:layout_marginTop="20dp"
+                android:layout_width="@dimen/agis_logo_width"
+                android:layout_height="@dimen/button_height"
+                android:layout_gravity="center"
+                android:text="Save"
+                android:background="@android:color/holo_blue_dark"
+                android:textColor="@android:color/white"/>
+            
+            
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

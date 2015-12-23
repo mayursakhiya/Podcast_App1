@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="10" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@android:color/black" >
+
+           <include layout="@layout/header_middle_text"
+  	    android:id="@+id/layout_header"
+  	    android:layout_width="fill_parent"
+  	    android:layout_height="?android:attr/actionBarSize"/>
+           
+        </RelativeLayout>
+
+        <GridView
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+			style="?android:attr/gridViewStyle"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:fitsSystemWindows="true" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@android:color/black" >
+            
+             <Button
+            android:id="@+id/doneBtn"
+            android:layout_width="@dimen/login_logo_height"
+            android:layout_height="@dimen/login_btn_margin_top"
+            android:layout_centerInParent="true"
+            android:background="@android:color/holo_blue_dark"
+            android:text="Done"
+            android:textColor="@android:color/black" />
+             
+             
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rel"
+        android:layout_width="fill_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/whooshkaa">
+
+         <TextView
+             android:id="@+id/titleTxt"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_centerHorizontal="true"
+             android:layout_centerVertical="true"
+             android:layout_toRightOf="@+id/menuImg"
+             android:layout_toLeftOf="@+id/searchImg"
+             android:gravity="center"
+             android:textColor="@android:color/white"
+             android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+        <ImageView
+            android:id="@+id/menuImg"
+            android:layout_width="@dimen/abc_action_button_min_width_material"
+            android:layout_height="@dimen/abc_action_button_min_width_material"
+            android:layout_margin="@dimen/lib_view_margin_left"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+             />
+
+        <ImageView
+            android:id="@+id/searchImg"
+            android:layout_width="@dimen/abc_action_button_min_width_material"
+            android:layout_height="@dimen/abc_action_button_min_width_material"
+            android:layout_margin="@dimen/lib_view_margin_left"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+             />
+
+    </RelativeLayout>
+
+</LinearLayout>

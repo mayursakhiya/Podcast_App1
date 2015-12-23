@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/menu_width"
+    android:layout_height="@dimen/menu_width"
+    android:gravity="center" 
+    android:padding="@dimen/lib_padding_right">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/slider_img_width"
+        android:layout_alignParentBottom="true"
+        android:background="#bb000000" >
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/lib_view_margin_top"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ccffffff" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textTitle"
+            android:layout_margin="@dimen/lib_view_margin_top"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <TextView
+                android:id="@+id/textContent"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/lib_margin_left"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:text="Large Text"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#ccffffff" />
+
+            <TextView
+                android:id="@+id/textContent1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/lib_margin_left"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="Large Text"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#ccffffff" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

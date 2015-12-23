@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rel1"
+    android:layout_width="@dimen/agis_logo_height"
+    android:layout_height="@dimen/agis_logo_height">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/agis_logo_height"
+        android:layout_height="@dimen/agis_logo_height"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="New Text"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/lib_title_font_size"
+        android:visibility="gone" />
+
+    <CheckBox
+        android:id="@+id/chkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/lib_view_margin_bottom"
+        android:layout_marginRight="@dimen/lib_view_margin_bottom"
+        android:background="@drawable/radio_selector" />
+
+</RelativeLayout>
